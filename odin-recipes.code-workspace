@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../odin-recipes"
+		},
+		{
+			"path": "../rock-paper-scissors"
+		},
+		{
+			"path": "../etch-a-sketch"
+		}
+	],
+	"settings": {}
+}
